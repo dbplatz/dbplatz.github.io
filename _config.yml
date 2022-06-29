@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   Tech Docs. Part of dbplatz.com #useThemAll
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://techplatz.net'
+url: 'https://dbplatz.github.io'
 
 github:
   username: dbplatz             # change to your github username
